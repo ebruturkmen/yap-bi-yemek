@@ -1,0 +1,105 @@
+.hero-bg {
+    background-image: linear-gradient(rgba(235, 235, 235, 0.5), rgba(0,0,0, .9)), url('../img/hero.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+#hero .container {
+    height: 50vh;
+}
+
+.purple-color {
+    color: #6610f2;
+}
+
+.generic {
+    padding: 80px 0;
+}
+.logo {
+    text-align: center;
+}
+
+.blog-satir {
+    height: 500px;
+    overflow: hidden;
+}
+.sutun-satiri {
+    height: 300px;
+}
+.m-left {
+    margin-left: -3px;
+}
+.ayrac {
+    color: rgba(0, 0, 0, 0.5);
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.side-nav {
+    padding: 20px;
+    height: 100%;
+    width: 14%;
+    background-image: linear-gradient(rgba(199, 198, 198, 0.5), rgba(54, 40, 40, 0.9)), url('../img/n.jpg');
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    display: block;
+    box-sizing: border-box;
+    box-shadow: black;
+}
+.side-nav a {
+    color: white;
+    margin-bottom: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    display: block;
+}
+.side-nav a.active {
+    color: rgb(255, 233, 199);
+}
+.metinler .card-title {
+    text-align: center;
+    font-size: 30px;
+    margin: 40px 0;
+    color: rgb(66, 45, 45);
+}
+.side-nav a:hover {
+    color: rgb(146, 116, 95);
+}
+
+.side {
+    margin-left: 0px;
+}
+
+.container.metinler {
+    margin: 0 auto;
+    width: 90%;
+}
+.container.metinler p{
+    text-indent: 40px;
+    color: rgb(87, 86, 86);
+}
+.container.metinler img {
+    display: block;
+    margin: 0 auto;
+    height: 300px;
+    width: 500px;
+}
+
+.header .nav {
+    position: fixed;
+    top: 0;
+}
+.gonder {
+    max-width: 100px;
+    height: 40px;
+    background-color: rgb(87, 87, 87);
+    box-shadow: rgb(43, 43, 43);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    bottom: 10px;
+}
+body {
+    background-color: brown;
+}
