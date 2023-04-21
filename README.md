@@ -1,7 +1,7 @@
 # yap-bi-yemek
 This site is a work I did with bootstrap.
 
-![Screenshot_8](https://user-images.githubusercontent.com/84645404/233727369-fb08517c-711a-4f4f-8158-8c542a94c269.png)
+![Screenshot_8](https://user-images.githubusercontent.com/84645404/233727602-aebf6f5c-0988-49fc-9522-b0d51d4d2809.png)
 
 ![Screenshot_1](https://user-images.githubusercontent.com/84645404/233726552-36197235-d851-40e7-8854-5042e90d3c0f.png)
 
